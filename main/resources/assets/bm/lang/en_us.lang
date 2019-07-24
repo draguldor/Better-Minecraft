@@ -1,0 +1,33 @@
+//Item
+item.copper_ingot.name=Copper Ingot
+item.tungsten_ingot.name=Tungsten Ingot
+item.steel_one.name=Steel ingot
+item.steel_two.name=Refined Steel Ingot
+item.steel_one_shard.name=Steel Shard
+item.steel_two_shard.name=Refined Steel Shard
+item.demonic_ingot.name=Demonic Ingot
+item.demonic_essence.name=Demonic Essence
+item.platinum_ingot.name=Platinum Ingot
+item.platinum_shovel.name=Platinum Shovel
+item.platinum_sword.name=Platinum Sword
+item.platinum_pickaxe.name=Platinum Pickaxe
+item.platinum_axe.name=Platinum Axe
+item.platinum_hoe.name=Platinum Hoe
+item.platinum_nugget.name=Platinum Nugget
+item.imperial_diamond_item.name=Imperial Diamond
+tile.imperial_diamond.name=Imperial Diamond Ore
+
+
+
+
+
+
+
+//blocks
+tile.copper_block.name=Copper Block
+tile.copper_ore.name=Copper Ore
+tile.compressed_stone.name=Compressed Stone
+tile.platinum_ore.name=Platinum Ore
+tile.infernal_stone.name=Infernal Stone
+tile.platinum_block.name=Platinum Block
+tile.imperial_diamond.name=Imperial Diamond Ore

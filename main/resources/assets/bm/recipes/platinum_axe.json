@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " PP",
+        " SP",
+        " S "
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "bm:platinum_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bm:platinum_axe",
+        "count": 1
+    }
+}

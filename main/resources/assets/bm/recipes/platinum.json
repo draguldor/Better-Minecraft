@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "RRR",
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "bm:platinum_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bm:platinum_block",
+        "count": 1
+    }
+}
